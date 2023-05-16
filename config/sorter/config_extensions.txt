@@ -1,0 +1,33 @@
+
+--------------------------------------------------------------------------
+|        Si vous souhaitez écrire des commentaires dans ce ficher,        |
+|        NE SURTOUT PAS COMMENCER OU METTRE DE POINT DANS LA PHRASE !     |
+--------------------------------------------------------------------------
+
+
+Ecrire les extensions en dessous !
+%%%Texte
+.txt
+.odt
+.doc
+.docx
+%%%Audio
+.mp3
+.ogg
+%%%Images
+.png
+.jpg
+.jpeg
+%%%Éxécutables
+.msi
+.exe
+.iso
+.jar
+%%%Archives
+.zip
+.rar
+%%%Vidéos
+.mp4
+.mkv
+%%%Shells
+.bat
